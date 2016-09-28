@@ -1,0 +1,79 @@
+
+body {
+  background: linear-gradient(to right, #fff, #ebeaef);
+} 
+.img-responsive { 
+  margin: 0 auto;
+}
+.imgtitle {
+  color: #4e97cd;
+  font: 1.4em "Arvo", sefrif;
+}
+.shotby {
+  color: #777;
+  font: 0.6em courier;
+}
+.wroteby {
+  color: red !important;
+  font: 1em courier;
+}
+.header {
+  position: fixed;
+  float: left;
+}
+.header a {
+  font-size: 2.4em;
+  box-shadow: 1px 1px 1px;
+  color: #999;  
+  float: left;
+ }
+#facebook {
+  padding: 0 0.28em;
+}
+#twitter {
+  padding: 0 0.14em;
+}
+#youtube {
+  padding: 0 0.1em;
+}
+h1 {
+  font: 3em Tangerine;
+  color: #ff9e2c;   
+}
+h1 span {
+   font: 4em Tangerine;
+   color: #fed;
+   text-shadow: 4px 4px 8px #ff6b6f;
+}
+#musicIcon {  
+  font-size: 0.18em;
+}
+.content {
+  font: 1.5em Baloo Bhai;
+  color:  #8B4726;
+}
+.content p {
+  text-align:justify;
+}
+.content a img {  
+  float: left;
+  margin: 1em;
+  padding: 0;
+  border-radius: 10%;
+  border: 2px dotted #4e97cd;
+  border-top: 0;
+  box-shadow: 5px 5px 5px;
+}
+.content a img:hover {
+  border: 2px solid #4e97cd;
+  border-top: 0;
+}
+.footer {
+  clear: left;
+  margin: 10em auto;
+}
+.footer p{
+  border-top: 2px solid #aaa;
+  font: 0.8em courier;
+  letter-spacing: 0.4em;  
+}
